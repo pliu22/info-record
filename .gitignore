@@ -1,13 +1,1 @@
-CakePHP 3
-
-/vendor/*
-/config/app.php
-/tmp/*
-/logs/*
-
-CakePHP 2
-
-/app/tmp/*
-/app/Config/core.php
-/app/Config/database.php
-/vendors/*
+province_city_county 这个文件夹是省市县的三级联动的php代码 
