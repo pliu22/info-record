@@ -48,9 +48,3 @@
     echo '<hr>';
     var_dump( $errorInfo ); //返回脚本错误的信息
 ?>
- 
-<form action="#" method="post">
-    数值1 <input type="text" name="numA"><br>
-    数值2 <input type="text" name="numB"><br>
-    <input type="submit" name="submit" value="提交">
-</form>
