@@ -1,7 +1,7 @@
-# php_study_record
-learning php record!中西结合！哈哈！
+# php 有用方法
 
-​```php
+
+```php
 //远程请求 URL,一般会请求到网页的缓存,使用 curl_setopt 中的 CURLOPT_FRESH_CONNECT 参数 强制使用新的链接发送请求
 function curl_file_get_contents($durl){
     $ch = curl_init();
@@ -16,4 +16,11 @@ function curl_file_get_contents($durl){
     curl_close($ch);
     return $r;
 }
-​```
+```
+
+# github 访问不了时 
+访问 http://tool.chinaz.com/nslookup/
+将 github.com 放在 域名查询哪里 就可以得到 服务器的真实地址 然后 在改地址放在hosts里面 修改即可
+
+## 13.250.177.223 github.com
+
