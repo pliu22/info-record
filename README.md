@@ -20,7 +20,7 @@ function curl_file_get_contents($durl){
 
 # github 访问不了时 
 访问 http://tool.chinaz.com/nslookup/
-将 github.com 放在 域名查询哪里 就可以得到 服务器的真实地址 然后 在改地址放在hosts里面 修改即可
+将 github.com 放在 域名查询哪里 就可以得到 服务器的真实地址 然后C:\Windows\System32\drivers\etc\hosts 添加下面一行记录即可
 
 ## 13.250.177.223 github.com
 
