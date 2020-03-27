@@ -1,7 +1,7 @@
 # php_study_record
 learning php record!中西结合！哈哈！
 
-
+​```php
 //远程请求 URL,一般会请求到网页的缓存,使用 curl_setopt 中的 CURLOPT_FRESH_CONNECT 参数 强制使用新的链接发送请求
 function curl_file_get_contents($durl){
     $ch = curl_init();
@@ -16,3 +16,4 @@ function curl_file_get_contents($durl){
     curl_close($ch);
     return $r;
 }
+​```
