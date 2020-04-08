@@ -88,3 +88,8 @@ function combination($a, $m) {
 
 ## 13.250.177.223 github.com
 
+#利用Beautiful Soup+Pandas+Pyqt5+Selenum进行python爬虫
+http://www.showerlee.com/archives/2109
+采用PyQt5+urllib3+BeautifulSoup4进行动态网页的图片抓取爬虫
+https://blog.csdn.net/And_ZJ/article/details/80003543
+
