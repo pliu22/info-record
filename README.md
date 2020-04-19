@@ -1,5 +1,7 @@
-# php 有用方法
+## 多种开发环境的集成
+Laragon
 
+# php 有用方法
 
 ```php
 //远程请求 URL,一般会请求到网页的缓存,使用 curl_setopt 中的 CURLOPT_FRESH_CONNECT 参数 强制使用新的链接发送请求
