@@ -95,3 +95,9 @@ http://www.showerlee.com/archives/2109
 采用PyQt5+urllib3+BeautifulSoup4进行动态网页的图片抓取爬虫
 https://blog.csdn.net/And_ZJ/article/details/80003543
 
+# css 
+div固定底部 并且不遮挡其他元素
+
+问题：设置固定底部的div后会遮挡其他元素
+解决方法:为该固定在底部的div设置一个height，position设置为fixed，
+然后给body设置一个margin-bottom，大小为该固定在底部的div的height
