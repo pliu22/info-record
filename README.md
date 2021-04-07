@@ -82,7 +82,7 @@ function combination($a, $m) {
 ```
 
 ## WORDPRESS 角色权限图
-<img src='Roles-and-Capabilities-«-WordPress-Codex.png' alt='wordrpess roles auth'>
+<img src='Roles-and-Capabilities-«-WordPress-Codex.png' alt='wordrpess roles auth' style='display:block; margin:0 auto;'>
 
 
 # github 访问不了时 
