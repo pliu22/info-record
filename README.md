@@ -102,3 +102,14 @@ div固定底部 并且不遮挡其他元素
 问题：设置固定底部的div后会遮挡其他元素
 解决方法:为该固定在底部的div设置一个height，position设置为fixed，
 然后给body设置一个margin-bottom，大小为该固定在底部的div的height
+
+
+```flow
+st=>start: 开始
+op=>operation: My Operation
+cond=>condition: Yes or No?
+e=>end
+st->op->cond
+cond(yes)->e
+cond(no)->op
+&```
