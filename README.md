@@ -81,7 +81,7 @@ function combination($a, $m) {
 
 ```
 
-
+<img src='/wrndlb/info-record/blob/master/Roles-and-Capabilities-«-WordPress-Codex.png' alt='wordrpess roles auth'>
 
 
 # github 访问不了时 
