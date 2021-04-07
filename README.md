@@ -81,6 +81,7 @@ function combination($a, $m) {
 
 ```
 
+## WORDPRESS 角色权限图
 <img src='Roles-and-Capabilities-«-WordPress-Codex.png' alt='wordrpess roles auth'>
 
 
